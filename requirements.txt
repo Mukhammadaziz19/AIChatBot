@@ -1,4 +1,6 @@
 streamlit
+streamlit-webrtc
+openai  # or use Whisper or any STT API you prefer
 google-generativeai
-speechrecognition
-pydub
+numpy
+whisper  # optional
